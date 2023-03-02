@@ -9,7 +9,9 @@ NintenBlocks Calculator is a handy tool for jailbroken Nintendo 3DS consoles. It
 **NintenBlocks Calculator**
 NintenBlocks Calculator is a tool designed for 3DS console enthusiasts who want to calculate the size of their ROMs in blocks. This handy tool allows users to quickly convert file sizes to the number of blocks they will occupy on their 3DS console.
 
-![image](https://user-images.githubusercontent.com/123846642/222062196-68811167-6d8b-4db8-8163-aecc3b7b3621.png) ![Nintendo 3DS handheld (1)](https://user-images.githubusercontent.com/123846642/222062935-d9014342-feab-49ce-a9c9-9a37a694f874.png) ![Nintendo 3DS handheld (2)](https://user-images.githubusercontent.com/123846642/222064142-1ee5635c-420e-4cf9-b93d-6f2b340bbed0.png)
+![NintenBlocks Software Screenshot](https://user-images.githubusercontent.com/123846642/222522377-2ac30f45-c4bf-470b-a88f-c4adce8ab6fa.png)
+
+![Nintendo 3DS handheld (1)](https://user-images.githubusercontent.com/123846642/222062935-d9014342-feab-49ce-a9c9-9a37a694f874.png) ![Nintendo 3DS handheld (2)](https://user-images.githubusercontent.com/123846642/222064142-1ee5635c-420e-4cf9-b93d-6f2b340bbed0.png)
 
 **Installation**
 To use NintenBlocks Calculator, simply download the NintenBlocks v1.0.exe file from the releases page on Github.
